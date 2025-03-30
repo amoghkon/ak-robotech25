@@ -2,7 +2,7 @@
 
 Source code for Robotech 2025 project.
 
-Team members: Adityan Swaminathan, Akash ___, Raj Kothari, Amogh Kondaji
+Team members: Adityan Swaminathan, Akash Sarod, Raj Kothari, Amogh Kondaji
 
 ## Keypad Door Lock
 With Buzzcard activated locks becoming more widespread, students commonly get locked out of their room due to forgetting their Buzzcard. To solve this problem, we created an additional door unlocking mechanism that uses a keypad for authentication. There are two ESP32 microcontrollers, one on each side of the door. 
