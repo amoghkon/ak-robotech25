@@ -12,3 +12,6 @@ The ESP32 outside of the door takes input from a capacitive touch keypad. The us
 The ESP on the other side of the door controls a stepper motor. Using a 3D printed gear connected to the motor and a bar with teeth, we implemented a linear actuator. The actuator pushes the door handle down to unlock the door. 
 
 We also utilize Blynk, an IoT platform, to provide an interface for the user to interact with the door lock. Blynk allows a phone to send data to an ESP32 and vice versa. Currently, the user can change the door lock’s password. Additionally, they get a push notification when the door unlocks. 
+
+## Code Citations:
+Templates/Example codes were obtained from https://randomnerdtutorials.com/ for the ESP 32 communication, motor operation, LCD display, and keypad, and then modified. Codes obtained from Blynk Documentation for Blynk, and then modified.
