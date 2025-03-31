@@ -15,3 +15,5 @@ We also utilize Blynk, an IoT platform, to provide an interface for the user to 
 
 ## Code Citations:
 Templates/Example codes were obtained from https://randomnerdtutorials.com/ for the ESP 32 communication, motor operation, LCD display, and keypad, and then modified. Codes obtained from Blynk Documentation for Blynk, and then modified.
+
+## Additional Info:
